@@ -1,9 +1,8 @@
 ﻿<Properties StartupConfiguration="{8DCA5524-4897-E3F6-FCEA-CC03961B98E3}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/HealthCollectible.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RubyController.cs">
     <Files>
-      <File FileName="Assets/Scripts/HealthCollectible.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/RubyController.cs" Line="22" Column="1" />
-      <File FileName="Assets/Scripts/Damageables.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/HealthCollectible.cs" Line="21" Column="10" />
+      <File FileName="Assets/Scripts/RubyController.cs" Line="67" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
