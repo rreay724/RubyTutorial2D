@@ -2,7 +2,9 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/RubyController.cs">
     <Files>
       <File FileName="Assets/Scripts/HealthCollectible.cs" Line="21" Column="10" />
-      <File FileName="Assets/Scripts/RubyController.cs" Line="67" Column="1" />
+      <File FileName="Assets/Scripts/RubyController.cs" Line="39" Column="15" />
+      <File FileName="Assets/Scripts/EnemyController.cs" Line="16" Column="23" />
+      <File FileName="Assets/Scripts/DamageZone.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
